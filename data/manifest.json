@@ -1,0 +1,15 @@
+{
+ "algorithm": "sha256",
+ "created": 1791265151.3378215,
+ "files": {
+  "arpspoof_01.pcap": "9584b5313b785f9c65911fbd7f9009f43818f01ce53c5e53360233e06ab8d539",
+  "benign_01.pcap": "3b8caf98091862907e718099ae9b66599d44a19ed4630f9109fe1be8de3e23f6",
+  "benign_02.pcap": "517e866f4dc229976d2ea360ed0b1f716e16aedb6072ad1b8bd59f2d3ba47c49",
+  "exfil_01.pcap": "d5be747167c2729e0813f5a5ea3c6d87cc3c1655514e597767e40784cd9ff151",
+  "portscan_01.pcap": "aedb3b7c7290132fa8b77d3eb6adf11e609c26cc9a259b0ced191ab40a6fb6c1",
+  "sshbrute_01.pcap": "beedb7f1256a7523b417e40e9fd81804bea21b685d4b312fc89caf862f8ca277",
+  "synflood_01.pcap": "dbdebfa9ab5b90527c6d2313ffccf373e53db0de89d88442d2790c4b7e4158f3",
+  "telnet_01.pcap": "c4b0fe254f26b3223b20e710a5999cc2410cad2fbfa3f4b3e794447a33f23dfb",
+  "weaktls_01.pcap": "56cdf31d16ac13bdf9380199bfd02a80714035da0a1e3c6ee4d308fc3166fec6"
+ }
+}

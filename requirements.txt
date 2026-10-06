@@ -1,0 +1,5 @@
+pyshark>=0.6
+scapy>=2.5
+cryptography>=42
+jinja2>=3.1
+matplotlib>=3.8
